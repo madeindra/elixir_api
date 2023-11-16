@@ -26,3 +26,7 @@ elixir_api-*.tar
 # we ignore priv/static. You may want to comment
 # this depending on your deployment strategy.
 /priv/static/
+
+# Ignore vscode and extention files
+.vscode
+.elixir_ls
