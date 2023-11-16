@@ -5,7 +5,7 @@
 # is restricted to this project.
 
 # General application configuration
-use Mix.Config
+import Config
 
 config :elixir_api,
   ecto_repos: [ElixirApi.Repo],
